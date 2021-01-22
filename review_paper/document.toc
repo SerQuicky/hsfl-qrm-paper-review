@@ -1,9 +1,4 @@
 \babel@toc {ngerman}{}
-\contentsline {section}{\numberline {1}R\IeC {\"u}ckblick}{2}% 
-\contentsline {section}{\numberline {2}Raw Coding}{2}% 
-\contentsline {section}{\numberline {3}Axial Coding}{3}% 
-\contentsline {section}{\numberline {4}Codebegr\IeC {\"u}ndungen}{6}% 
-\contentsline {section}{\numberline {5}Themenbereiche}{9}% 
-\contentsline {paragraph}{Private Altersvorsorge und ihre M\IeC {\"o}glichkeiten}{9}% 
-\contentsline {paragraph}{Erwartungen an das Gesetzliches Rentensystem}{9}% 
-\contentsline {paragraph}{L\IeC {\"o}sungsans\IeC {\"a}tze gegen Altersarmut}{9}% 
+\contentsline {section}{\numberline {1}Zusammenfassung}{2}% 
+\contentsline {section}{\numberline {2}Studienmethodik}{2}% 
+\contentsline {section}{\numberline {3}Diskussion}{2}% 
