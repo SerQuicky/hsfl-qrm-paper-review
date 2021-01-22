@@ -1,8 +1,10 @@
 \begin{thebibliography}{1}
 
-\bibitem{riester}
-{Alles zu Riester und zur Riester-Förderung}.
-\newblock \url{https://riester.deutsche-rentenversicherung.de}.
-\newblock [Online; Aufgerufen 03.01.2021].
+\bibitem{odom2011teenagers}
+W.~Odom, J.~Zimmerman, and J.~Forlizzi.
+\newblock Teenagers and their virtual possessions: design opportunities and
+  issues.
+\newblock In {\em Proceedings of the SIGCHI conference on Human Factors in
+  computing systems}, pages 1491--1500, 2011.
 
 \end{thebibliography}
