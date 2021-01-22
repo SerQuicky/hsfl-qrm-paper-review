@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.24)  22 JAN 2021 21:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.24)  22 JAN 2021 23:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -215,6 +215,11 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 Package csquotes Info: Redefining character " on input line 35.
+<images/logo.png, id=1, 321.2pt x 214.8025pt>
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 36.
+(pdftex.def)             Requested size: 195.0pt x 130.40985pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -224,8 +229,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 [1
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./document.toc)
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
+s/logo.png>] (./document.toc)
 \tf@toc=\write3
 \openout3 = `document.toc'.
 
@@ -235,14 +240,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--51
  []
 
 
-Overfull \hbox (24.60126pt too wide) in paragraph at lines 61--66
-\OT1/cmr/m/n/12 zu Fa-mi-li-en der ge-sell-schaft-li-chen Mittel- bzw. Ober-sch
-icht und hat-ten gr[]o^^Ytenteils
+Underfull \hbox (badness 10000) in paragraph at lines 61--66
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--66
-
+Overfull \hbox (4.07368pt too wide) in paragraph at lines 67--73
+\OT1/cmr/m/n/12 min[]utiges Semi-Strukturiertes In-ter-view in dem ei-ge-nen Sc
+hlaf-zim-mer gef[]uhrt.
  []
 
 
@@ -250,7 +255,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--73
 
  []
 
-[2] [3] (./document.bbl) [4
+[2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 85.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 85.
+ [3]
+(./document.bbl) [4
 
 ] (./document.aux) )
 (\end occurred inside a group at level 1)
@@ -258,22 +271,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--73
 ### simple group (level 1) entered at line 13 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 3529 strings out of 492616
- 49410 string characters out of 6129481
- 142423 words of memory out of 5000000
- 7395 multiletter control sequences out of 15000+600000
+ 3551 strings out of 492616
+ 49802 string characters out of 6129481
+ 143423 words of memory out of 5000000
+ 7413 multiletter control sequences out of 15000+600000
  8847 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,7n,35p,818b,1180s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,7n,35p,818b,1188s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mti12.pfb>
-Output written on document.pdf (5 pages, 63442 bytes).
+msy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ti12.pfb>
+Output written on document.pdf (5 pages, 91998 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
- 24 compressed objects within 1 object stream
+ 43 PDF objects out of 1000 (max. 8388607)
+ 28 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
