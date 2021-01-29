@@ -2,3 +2,5 @@
 \contentsline {section}{\numberline {1}Zusammenfassung}{2}{}%
 \contentsline {section}{\numberline {2}Studienmethodik}{2}{}%
 \contentsline {section}{\numberline {3}Diskussion zur Studienmethodik}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Positive Anmerkungen}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Kritische Anmerkungen}{4}{}%

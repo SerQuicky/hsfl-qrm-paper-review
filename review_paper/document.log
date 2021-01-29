@@ -1,16 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.28)  28 JAN 2021 23:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.1.8)  29 JAN 2021 10:36
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Martin/Desktop/review/hsfl-qrm-paper-review/review_paper/document.tex
-(c:/Users/Martin/Desktop/review/hsfl-qrm-paper-review/review_paper/document.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-01-09> xparse <2020-03-03> (c:/Users/Martin/Desktop/review/hsfl-qrm-paper-review/review_paper/hsflensburg.cls
+**document.tex
+(./document.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-03> xparse <2020-03-03> (./hsflensburg.cls
 Document Class: hsflensburg 2020/04/13 Flensburg Document Class
-(c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+(/usr/share/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(c:/texlive/2020/texmf-dist/tex/latex/base/size12.clo
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
 \c@part=\count177
@@ -24,49 +23,66 @@ File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-) (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
- (c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
-) (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
- (c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
- (c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen139
 \Gin@req@width=\dimen140
-) (c:/texlive/2020/texmf-dist/tex/latex/setspace/setspace.sty
+)
+(/usr/share/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
-)) (c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+))
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
-) (c:/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2021/01/26 3.53 The Babel package
- (c:/texlive/2020/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2021/01/26 3.53 Babel common definitions
+)
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/10/27 3.51 The Babel package
+
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/10/27 3.51 Babel common definitions
 \babel@savecnt=\count185
 \U@D=\dimen141
 \l@babelnohyphens=\language86
- (c:/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def)
+
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 )
 \bbl@dirlevel=\count186
- (c:/texlive/2020/texmf-dist/tex/generic/babel-german/ngerman.ldf
-Language: ngerman 2020/07/21 v2.12 German support for babel (post-1996 orthography)
- (c:/texlive/2020/texmf-dist/tex/generic/babel-german/ngermanb.ldf
-Language: ngermanb 2020/07/21 v2.12 German support for babel (post-1996 orthography)
+
+(/usr/share/texmf-dist/tex/generic/babel-german/ngerman.ldf
+Language: ngerman 2020/07/21 v2.12 German support for babel (post-1996 orthogra
+phy)
+
+(/usr/share/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+Language: ngermanb 2020/07/21 v2.12 German support for babel (post-1996 orthogr
+aphy)
 Package babel Info: Making " an active character on input line 121.
-))) (c:/texlive/2020/texmf-dist/tex/latex/csquotes/csquotes.sty
-Package: csquotes 2021-01-04 v5.2k context-sensitive quotations (JAW)
- (c:/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+)))
+(/usr/share/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2019-12-06 v5.2j context-sensitive quotations (JAW)
+
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count187
 )
@@ -77,21 +93,27 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \csq@maxlvl=\count192
 \csq@tshold=\count193
 \csq@ltx@everypar=\toks18
- (c:/texlive/2020/texmf-dist/tex/latex/csquotes/csquotes.def
-File: csquotes.def 2021-01-04 v5.2k csquotes generic definitions (JAW)
+
+(/usr/share/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2019-12-06 v5.2j csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
- (c:/texlive/2020/texmf-dist/tex/latex/csquotes/csquotes.cfg
+
+(/usr/share/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
-)) (c:/texlive/2020/texmf-dist/tex/latex/placeins/placeins.sty
+))
+(/usr/share/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
-) (c:/texlive/2020/texmf-dist/tex/latex/url/url.sty
+)
+(/usr/share/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) (c:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+)
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
- (c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -110,13 +132,13 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
- (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
+
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count194
 \l__pdf_internal_box=\box47
-) (c:/Users/Martin/Desktop/review/hsfl-qrm-paper-review/review_paper/document.aux)
-\openout1 = `document.aux'.
-
+)
+(./document.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
@@ -131,7 +153,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
- (c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count195
 \scratchdimen=\dimen142
@@ -144,11 +166,14 @@ LaTeX Font Info:    ... okay on input line 35.
 \MPnumerator=\count199
 \makeMPintoPDFobject=\count266
 \everyMPtoPDFconversion=\toks20
-) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
 ))
 Package csquotes Info: Redefining character " on input line 35.
 <images//logo.png, id=1, 321.2pt x 214.8025pt>
@@ -164,11 +189,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 36.
  [1
 
-{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <c:/Users/Martin/Desktop/review/hsfl-qrm-paper-review/review_paper/images//logo.png>] (c:/Users/Martin/Desktop/review/hsfl-qrm-paper-review/review_paper/document.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images//logo.png>] (./do
+cument.toc)
 \tf@toc=\write3
-\openout3 = `document.toc'.
 
- [1]
+[1]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -179,8 +204,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--49
  []
 
 
-Overfull \hbox (8.3431pt too wide) in paragraph at lines 50--56
-\OT1/cmr/m/n/12 stel-len, dass die vir-tu-el-len Be-sitzt[]umer und so-zia-len Me-di-en neue M[]oglichkeiten
+Overfull \hbox (3.96536pt too wide) in paragraph at lines 50--56
+\OT1/cmr/m/n/12 len Be-sitzt[]umer und so-zia-len Me-di-en neue M[]oglichkeiten
+ der Iden-tit[]atsbildung
  []
 
 
@@ -190,7 +216,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--64
 
 
 Overfull \hbox (4.07368pt too wide) in paragraph at lines 65--71
-\OT1/cmr/m/n/12 min[]utiges Semi-Strukturiertes In-ter-view in dem ei-ge-nen Schlaf-zim-mer gef[]uhrt.
+\OT1/cmr/m/n/12 min[]utiges Semi-Strukturiertes In-ter-view in dem ei-ge-nen Sc
+hlaf-zim-mer gef[]uhrt.
  []
 
 
@@ -198,26 +225,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--71
 
  []
 
-[2] [3] [4] [5] [6] (c:/Users/Martin/Desktop/review/hsfl-qrm-paper-review/review_paper/document.bbl) [7
+[2] [3] [4] [5] (./document.bbl) [6
 
-] (c:/Users/Martin/Desktop/review/hsfl-qrm-paper-review/review_paper/document.aux) )
+] (./document.aux) )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 13 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 3563 strings out of 479304
- 51680 string characters out of 5871219
- 370176 words of memory out of 5000000
- 20727 multiletter control sequences out of 15000+600000
- 408974 words of font info for 45 fonts, out of 8000000 for 9000
+ 3536 strings out of 479383
+ 49957 string characters out of 5875831
+ 365984 words of memory out of 5000000
+ 20623 multiletter control sequences out of 15000+600000
+ 408637 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,8n,88p,920b,1029s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on c:/Users/Martin/Desktop/review/hsfl-qrm-paper-review/review_paper/document.pdf (8 pages, 116607 bytes).
+ 80i,8n,85p,877b,905s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
+b></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
+.pfb>
+Output written on document.pdf (7 pages, 108428 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
